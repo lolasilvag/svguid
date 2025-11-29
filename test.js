@@ -1,1 +1,0 @@
-export default {"mdi:home":{"width":24,"height":24,"prefix":"mdi","iconName":"home","path":"M10 20v-6h4v6h5v-8h3L12 3L2 12h3v8z"},"mdi:arrow-left":{"width":24,"height":24,"prefix":"mdi","iconName":"arrow-left","path":"M20 11v2H8l5.5 5.5l-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5L8 11z"}}
